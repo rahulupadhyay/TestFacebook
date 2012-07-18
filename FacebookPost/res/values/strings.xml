@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">FacebookPost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="post">Post on your wall</string>
+    
+    <string name="title_activity_main">MainActivity</string>
+</resources>
